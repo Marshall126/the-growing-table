@@ -1,0 +1,38 @@
+body{
+    font-family:Roboto, sans-serif;
+    background-color:rgba(28, 196, 78, 0.2);
+}
+h1{
+    font-family:Pacifico, serif;
+    font-size:2.5rem;
+    font-weight:300;
+}
+p{
+    font-weight:300;
+    font-style:italic;
+}
+header{
+    text-align:center;
+    padding:30px;
+    border-bottom:8px dotted rgb(46, 136, 46);
+}
+#container{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    text-align:center;
+    margin-bottom:50px;
+}
+.info-box{
+    font-size:2.5rem;
+    padding:100px;
+    margin:auto;
+    margin-top:50px;
+    width:600px;
+    background-color:rgba(101,182,101,0.2);
+    border:6px double rgb(101, 182, 101);
+}
+.info-container p{
+    margin-top:30px;
+    
+}

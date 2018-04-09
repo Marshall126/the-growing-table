@@ -1,3 +1,3 @@
-$(document).ready(
-    $('header').click();
-);
+$(document).ready(function(){
+});
+
